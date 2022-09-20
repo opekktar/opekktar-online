@@ -2,37 +2,17 @@
 title: "Overview"
 linkTitle: "Overview"
 weight: 1
+draft: true
 description: >
-  Here's where your user finds out if your project is for them.
+  Guideline for the design and thought behind this site.
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+Guideline for the design and thought behind this site.
 {{% /pageinfo %}}
 
+The document section will be divided into a few section that make sense to me at the time of deployment (subject to change of course).
 
-The Overview is where your users find out about your project. Depending on the size of your docset, you can have a separate overview page (like this one) or put your overview contents in the Documentation landing page (like in the Docsy User Guide). 
+There will be the following sections: [Server](/docs/server), pretty self explanatory as the section where OnPrem and Cloud server configs and deployment notes will go. [Workstation](/docs/workstation/), again pretty self explanatory for workstation or as the kids call it now days PC configs go. [Reference](/docs/reference/), this will be misc references and links to other sources. [Examples](/docs/examples/), misc. examples of scripts or other things that I have done or read that don't fit in the other sections. [Development](/docs/development), I would not at this time still consider my self a developer, I am taking classes and learning more each day, development notes will go in here. [Security](/docs/security/), I'm also training for security certs. Notes pertaining to security, pretesting, OSINT, forensics and all manner of Script Kiddiness will go in here. [Tutorials](/docs/tutorials/), the idea here is for videos, etc.... Not sure that one will ever happen honestly. 
 
-Try answering these questions for your user in this page:
-
-## What is it?
-
-Introduce your project, including what it does or lets you do, why you would use it, and its primary goal (and how it achieves it). This should be similar to your README description, though you can go into a little more detail here if you want.
-
-## Why do I want it?
-
-Help your user know if your project will help them. Useful information can include: 
-
-* **What is it good for?**: What types of problems does your project solve? What are the benefits of using it?
-
-* **What is it not good for?**: For example, point out situations that might intuitively seem suited for your project, but aren't for some reason. Also mention known limitations, scaling issues, or anything else that might let your users know if the project is not for them.
-
-* **What is it *not yet* good for?**: Highlight any useful features that are coming soon.
-
-## Where should I go next?
-
-Give your users next steps from the Overview. For example:
-
-* [Getting Started](/docs/getting-started/): Get started with $project
-* [Examples](/docs/examples/): Check out some example code!
-
+Sections that never get used will eventually be removed and new sections may be added in the future as makes sense. Even though the structure is all there now, I'm only creating index.md files as I actually have content to show. So they will still link in the overview, but may not actually show up in the tree yet. 

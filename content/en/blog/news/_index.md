@@ -1,8 +1,6 @@
 
 ---
-title: "News About Docsy"
-linkTitle: "News"
+title: "News About Opekktar Yggdrasil"
+linkTitle: "Blog Posts"
 weight: 20
 ---
-
-

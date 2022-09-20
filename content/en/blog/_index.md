@@ -1,5 +1,5 @@
 ---
-title: "Docsy Blog"
+title: "Opekktar Online Blog"
 linkTitle: "Blog"
 menu:
   main:
